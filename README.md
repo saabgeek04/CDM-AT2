@@ -35,4 +35,17 @@ audience, rewrite as necessary or add material to make it more appropriate to th
 [What is racism and how to spot it]()
 
 ---  
-###
+### Requirements for satisfactory completion
+To complete this task to a satisfactory level, students are required to provide x2 complete
+samples of ‘copy’; showing evidence of redrafting content for:
+
+- Website copy
+- Social Media blurb
+Students are required to show annotations of:  
+- Target audience engagement
+- Redrafting, showing editing and changes
+- Feedback obtained and applied
+- Evidence of additional research
+- Techniques for effective writing on the web (e.g. inverted pyramid style)
+- Readability test reports
+- Spelling and grammar checks
