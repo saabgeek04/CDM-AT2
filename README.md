@@ -49,3 +49,15 @@ Students are required to show annotations of:
 - Techniques for effective writing on the web (e.g. inverted pyramid style)
 - Readability test reports
 - Spelling and grammar checks
+
+---
+### Assessor instructions
+Provide students with written content to redraft and edit for the above listed tasks.
+Assessors are required to review the student’s work submitted. Students are required to
+submit their work through Compass, and produce this in an electronically readable format
+(e.g. PDF).  
+Assessors are to ensure:  
+- access to technology  
+- quality evidence is submitted (see checklist)
+
+---
