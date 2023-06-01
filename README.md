@@ -76,9 +76,8 @@ You need to add some punch and engagement to the content for this company:
 
 
 
-1. [What is racism](/Source%20Material%20-%20Activity%201%20-%20What%20is%20racism%20and%20how%20to%20spot%20it%20_%20The%20big%20issues%20_%20ReachOut%20Australia.pdf)  
-2. [What is racism and how to spot it](/Source%20Material%20-%20Activity%201%20-%20What%20is%20Racism.pdf)
-
+[What is racism](/Source%20Material%20-%20Activity%201%20-%20What%20is%20racism%20and%20how%20to%20spot%20it%20_%20The%20big%20issues%20_%20ReachOut%20Australia.pdf)  
+[What is racism and how to spot it](/Source%20Material%20-%20Activity%201%20-%20What%20is%20Racism.pdf)
 
 
 
@@ -93,8 +92,7 @@ The client requires this as **digital media**.
 
 
 
-Re-write and edit the information using appropriate language for the target audience and media type (digital). Your products need to be engaging, professional and relate to your target audience **(teenagers, male and female 12-19 years)**. You are required to produce the content in the forms:
-
+Write content using the source material and *additionally* using extra researched material, using appropriate language for the target audience and media type (digital). Your products need to be engaging, professional and relate to your target audience **(teenagers, male and female 12-19 years)**. You are required to produce the content in the forms:
 
 
 
@@ -107,23 +105,23 @@ Re-write and edit the information using appropriate language for the target audi
 
 **You are also required to:**
 
-- Ensure you have met the requirements of the audience (including identifying how
-
-you have engaged the audience)
+- Ensure you have met the requirements of the audience (including identifying and  **annotating** how you have engaged the audience)
 
 - Redraft content, showing edits and inclusions/exclusions
 
-- Obtain and apply feedback
+- Obtain and apply feedback with annotations regarding its implementation
 
-- Show evidence of research in finding additional material
+- Show evidence of research (finding additional material) including annotations as your work develops
 
-- Show techniques that show effective writing
+- Show effective writing techniques and annotations explaning your implementation where relevant - **e.g.** [Inverted Pyramid](https://www.nngroup.com/articles/inverted-pyramid/) for the website content.
 
-- Perform readability tests on your content
+- Perform - and annotate the results - of *readability tests* on your content
 
 - Ensure proper spelling and grammar
 
 
 
 
-You do not need to use all the text supplied - choose the most relevant information for your audience, rewrite as necessary or add material to make it more appropriate to the audience
+You do not need to use all the text supplied - choose the most relevant information for your audience, rewrite as necessary or add material to make it more appropriate.
+
+has context menu
