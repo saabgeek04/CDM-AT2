@@ -31,8 +31,8 @@ audience, rewrite as necessary or add material to make it more appropriate to th
 
 ### Resources
 
-[What is racism]()  
-[What is racism and how to spot it]()
+[What is racism](/Source%20Material%20-%20Activity%201%20-%20What%20is%20racism%20and%20how%20to%20spot%20it%20_%20The%20big%20issues%20_%20ReachOut%20Australia.pdf)  
+[What is racism and how to spot it](/Source%20Material%20-%20Activity%201%20-%20What%20is%20Racism.pdf)
 
 ---  
 ### Requirements for satisfactory completion
