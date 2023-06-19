@@ -1,4 +1,4 @@
-[<Go Back](https://github.com/saabgeek04/CDM-AT2/blob/main/README.md) ------------------------------- Web Article ---------------------------
+[<Go Back](README.md) ------------------------------- Web Article ---------------------------
 
  The Harmful Impact of Racism on Teenagers: Building a Just and Inclusive Future
 

@@ -66,7 +66,7 @@ Assessors are to ensure:
 
 # Activity 1: Rewrite & Redraft
 
-
+For submission see [Rewrite](./ReWrite.md)
 
 
 ## Outline
@@ -123,5 +123,3 @@ Write content using the source material and *additionally* using extra researche
 
 
 You do not need to use all the text supplied - choose the most relevant information for your audience, rewrite as necessary or add material to make it more appropriate.
-
-has context menu
