@@ -66,7 +66,6 @@ Assessors are to ensure:
 
 # Activity 1: Rewrite & Redraft
 
-For submission see [Rewrite](./ReWrite.md)
 
 
 ## Outline
@@ -96,10 +95,9 @@ Write content using the source material and *additionally* using extra researche
 
 
 
-1. Website article
+1. Website article see [Here](./ReWrite.md)
 
-2. Social media blurb.
-
+2. Social media blurb. [Here](./blurb.md)
 
 
 
